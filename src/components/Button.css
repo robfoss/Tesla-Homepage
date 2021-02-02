@@ -8,6 +8,7 @@
     align-items: center;
     border-radius: 100px;
     opacity: 0.85;
+    text-align: center;
 }
 
 .button>a{
@@ -20,8 +21,10 @@
 .button__white{
     background-color: white;
     opacity: .65;
+    text-align: center;
 }
 
 .button__white>a{
     color: black;
+    text-align: center;
 }
